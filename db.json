@@ -1,5 +1,3 @@
-{
-    "userList" : [
   {
     "id": 1,
     "full_name": "Mae Broome",
@@ -210,5 +208,3 @@
     "gender": "Female",
     "phone": "4008780042"
   }
-];
-}
